@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Rubyroidas
-
-# Trying profile README in action
+Hi, I'm Rubyroids. I make games for living and I love doing that!
